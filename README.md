@@ -1,5 +1,7 @@
 # Tasko Download Manager
 
+os : for all linux users.
+
 Download Manager is a simple GUI application built in Python that allows you to easily download files from the internet. It provides a user-friendly interface for adding download URLs, tracking download progress, and managing downloaded files.
 
 ## Features
